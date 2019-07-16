@@ -1,1 +1,1 @@
-# this can be used to classify human gender, including 'Picture preprocessing' 'model training' 'gender recognition'
+# Using CNN to classify human gender
